@@ -9,4 +9,7 @@ Arabic keyboard layout based on Buckwalter transliteration
 5. It will generate the setup file
 6. Execute the setup.exe file. You may need to restart the PC to see the keyboard in list.
 
+### Urdu Phonetic keyboard
+Urdu Phonetic keyboard source file "Urdu-Phonetic.klc" also available, can be install in same way as above.
+
 
